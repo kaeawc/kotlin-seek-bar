@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RangeSeekBar" >
+        <attr name="labelFont" format="string" />
+        <attr name="minimum" format="integer" />
+        <attr name="maximum" format="integer" />
+        <attr name="labelTextSize" format="float" />
+        <attr name="leftValue" format="integer" />
+        <attr name="rightValue" format="integer" />
+        <attr name="thumbRadius" format="float" />
+        <attr name="thumbHitRadius" format="float" />
+    </declare-styleable>
+
+</resources>
